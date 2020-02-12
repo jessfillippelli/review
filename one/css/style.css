@@ -1,0 +1,20 @@
+body {
+
+}
+#wrapper{
+  background:black;
+  position:relative;
+  width:1000px;
+  height:800px;
+}
+
+.circleStyle{
+  border-radius: 50%;
+  width:20px;
+  height:20px;
+  background: white;
+  position:absolute;
+  left:10px;
+  top:10px;
+
+}
